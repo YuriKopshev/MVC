@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3608.controller;
+package task3608.controller;
 
 import com.javarush.task.task36.task3608.model.Model;
 import com.javarush.task.task36.task3608.view.EditUserView;

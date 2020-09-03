@@ -1,4 +1,4 @@
-package com.javarush.task.task36.task3608.dao;
+package task3608.dao;
 
 import com.javarush.task.task36.task3608.bean.User;
 import com.javarush.task.task36.task3608.dao.mock.DataSource;
